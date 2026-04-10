@@ -28,7 +28,7 @@ Competition robot built for FIRST Tech Challenge Romania over three seasons (201
 
 ### 🔩 Mechanical Structure
 - Designed and assembled the full robot frame from scratch each season
-- Custom parts modeled in SolidWorks and Fusion 360, manufactured via 3D printing
+- Custom parts modeled in Fusion 360, manufactured via 3D printing
 - Iterative design approach: tested, identified weaknesses, redesigned between competitions
 
 ### 🚗 Drivetrain
